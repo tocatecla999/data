@@ -1,0 +1,27 @@
+---
+data_show_map: true
+data_non_statistical: false
+indicator_name: Concentración residencial de la población extranjera
+published: true
+computation_units: Porcentaje
+national_indicator_description: Concentración residencial de la población extranjera
+national_geographical_coverage: Andalucía, Términos municipales
+computation_definitions: Ratio entre la dispersión residencial de la población extranjera residente en un municipio y la dispersión residencial de la población total residente en el municipio. 
+source_info: Distribución espacial de la población en Andalucía
+methodology:
+observations: 
+download_data:
+reporting_status: complete
+graph_type: bar
+graph_titles:
+  - unit: Percent
+    title: Concentración residencial de la población extranjera
+data_start_values:
+  - field: Grado urbanización
+    value: Zona rural
+  - field: Grado urbanización
+    value: Zona de densidad intermedia
+  - field: Grado urbanización
+    value: Ciudades 
+---
+
