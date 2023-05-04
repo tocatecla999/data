@@ -1,0 +1,790 @@
+"Year","Grado urbanización","Municipio","GeoCode","Value"
+2020,,,,12.617
+2020,"Ciudades",,,6.4815
+2020,"Zona de densidad intermedia",,,13.7633
+2020,"Zona rural",,,34.3902
+2020,"Zona rural","Abla","A04001",63.3781
+2020,"Zona rural","Abrucena","A04002",6.3622
+2020,"Zona de densidad intermedia","Adra","A04003",28.2827
+2020,"Zona rural","Albanchez","A04004",35.4194
+2020,"Zona rural","Alboloduy","A04005",95.9547
+2020,"Zona de densidad intermedia","Albox","A04006",13.1976
+2020,"Zona rural","Alcolea","A04007",100
+2020,"Zona rural","Alcóntar","A04008",75.1894
+2020,"Zona rural","Alcudia de Monteagud","A04009",100
+2020,"Zona rural","Alhabia","A04010",86.7925
+2020,"Zona rural","Alhama de Almería","A04011",3.4324
+2020,"Zona rural","Alicún","A04012",100
+2020,"Ciudades","Almería","A04013",4.8307
+2020,"Zona rural","Almócita","A04014",100
+2020,"Zona rural","Alsodux","A04015",100
+2020,"Zona rural","Antas","A04016",35.9862
+2020,"Zona rural","Arboleas","A04017",80.9289
+2020,"Zona rural","Armuña de Almanzora","A04018",8.3056
+2020,"Zona rural","Bacares","A04019",75.4098
+2020,"Zona rural","Bayárcal","A04020",0
+2020,"Zona rural","Bayarque","A04021",25.9259
+2020,"Zona rural","Bédar","A04022",100
+2020,"Zona rural","Beires","A04023",100
+2020,"Zona de densidad intermedia","Benahadux","A04024",8.861
+2020,"Zona rural","Benitagla","A04026",100
+2020,"Zona rural","Benizalón","A04027",100
+2020,"Zona rural","Bentarique","A04028",100
+2020,"Zona de densidad intermedia","Berja","A04029",31.3611
+2020,"Zona rural","Canjáyar","A04030",98.1697
+2020,"Zona rural","Cantoria","A04031",82.5246
+2020,"Zona de densidad intermedia","Carboneras","A04032",33.9923
+2020,"Zona rural","Castro de Filabres","A04033",100
+2020,"Zona rural","Cóbdar","A04034",100
+2020,"Zona de densidad intermedia","Cuevas del Almanzora","A04035",40.0974
+2020,"Zona rural","Chercos","A04036",100
+2020,"Zona rural","Chirivel","A04037",99.9329
+2020,"Zona rural","Dalías","A04038",99.726
+2020,"Zona rural","Enix","A04041",100
+2020,"Zona rural","Felix","A04043",100
+2020,"Zona rural","Fines","A04044",100
+2020,"Zona rural","Fiñana","A04045",99.8055
+2020,"Zona rural","Fondón","A04046",33.9412
+2020,"Zona rural","Gádor","A04047",100
+2020,"Zona rural","Gallardos, Los","A04048",37.0939
+2020,"Zona de densidad intermedia","Garrucha","A04049",30.5931
+2020,"Zona rural","Gérgal","A04050",25.492
+2020,"Zona rural","Huécija","A04051",100
+2020,"Ciudades","Huércal de Almería","A04052",5.7131
+2020,"Zona de densidad intermedia","Huércal-Overa","A04053",25.8068
+2020,"Zona rural","Íllar","A04054",100
+2020,"Zona rural","Instinción","A04055",0
+2020,"Zona rural","Laroya","A04056",2.5773
+2020,"Zona rural","Láujar de Andarax","A04057",10.0645
+2020,"Zona rural","Líjar","A04058",100
+2020,"Zona rural","Lubrín","A04059",56.6401
+2020,"Zona rural","Lucainena de las Torres","A04060",100
+2020,"Zona rural","Lúcar","A04061",38.6719
+2020,"Zona de densidad intermedia","Macael","A04062",0.3082
+2020,"Zona rural","María","A04063",10.0962
+2020,"Zona rural","Mojácar","A04064",89.7031
+2020,"Zona rural","Nacimiento","A04065",99.6117
+2020,"Zona de densidad intermedia","Níjar","A04066",68.3508
+2020,"Zona rural","Ohanes","A04067",38.3162
+2020,"Zona rural","Olula de Castro","A04068",100
+2020,"Zona de densidad intermedia","Olula del Río","A04069",14.0791
+2020,"Zona rural","Oria","A04070",94.4141
+2020,"Zona rural","Padules","A04071",100
+2020,"Zona rural","Partaloa","A04072",86.7634
+2020,"Zona rural","Paterna del Río","A04073",37.6344
+2020,"Zona de densidad intermedia","Pechina","A04074",61.892
+2020,"Zona de densidad intermedia","Pulpí","A04075",46.5841
+2020,"Zona rural","Purchena","A04076",4.576
+2020,"Zona rural","Rágol","A04077",0
+2020,"Zona rural","Rioja","A04078",13.968
+2020,"Zona de densidad intermedia","Roquetas de Mar","A04079",16.8193
+2020,"Zona rural","Santa Cruz de Marchena","A04080",100
+2020,"Zona rural","Santa Fe de Mondújar","A04081",98.1328
+2020,"Zona rural","Senés","A04082",100
+2020,"Zona rural","Serón","A04083",98.7
+2020,"Zona rural","Sierro","A04084",100
+2020,"Zona rural","Somontín","A04085",9.9558
+2020,"Zona rural","Sorbas","A04086",97.7723
+2020,"Zona rural","Suflí","A04087",5.1887
+2020,"Zona rural","Tabernas","A04088",25.8991
+2020,"Zona rural","Taberno","A04089",39.8558
+2020,"Zona rural","Tahal","A04090",99.7354
+2020,"Zona rural","Terque","A04091",1.3263
+2020,"Zona rural","Tíjola","A04092",15.6382
+2020,"Zona rural","Turre","A04093",60.8384
+2020,"Zona rural","Turrillas","A04094",100
+2020,"Zona rural","Uleila del Campo","A04095",11.4793
+2020,"Zona rural","Urrácal","A04096",5.0704
+2020,"Zona rural","Velefique","A04097",100
+2020,"Zona rural","Vélez-Blanco","A04098",28.5714
+2020,"Zona de densidad intermedia","Vélez-Rubio","A04099",11.1704
+2020,"Zona de densidad intermedia","Vera","A04100",14.5206
+2020,"Ciudades","Viator","A04101",14.2376
+2020,"Ciudades","Vícar","A04102",16.1547
+2020,"Zona rural","Zurgena","A04103",91.3073
+2020,"Zona rural","Tres Villas, Las","A04901",99.3139
+2020,"Zona de densidad intermedia","Ejido, El","A04902",8.884
+2020,"Zona de densidad intermedia","Mojonera, La","A04903",29.9077
+2020,"Zona rural","Balanegra","A04904",100
+2020,"Zona rural","Alcalá de los Gazules","A11001",15.8606
+2020,"Zona rural","Alcalá del Valle","A11002",19.996
+2020,"Zona rural","Algar","A11003",2.6499
+2020,"Ciudades","Algeciras","A11004",23.8651
+2020,"Zona rural","Algodonales","A11005",95.556
+2020,"Zona de densidad intermedia","Arcos de la Frontera","A11006",11.8999
+2020,"Zona de densidad intermedia","Barbate","A11007",2.1719
+2020,"Zona de densidad intermedia","Barrios, Los","A11008",3.6914
+2020,"Zona rural","Benaocaz","A11009",93.5673
+2020,"Zona de densidad intermedia","Bornos","A11010",0.2869
+2020,"Zona rural","Bosque, El","A11011",0
+2020,"Ciudades","Cádiz","A11012",0
+2020,"Zona rural","Castellar de la Frontera","A11013",0.2618
+2020,"Zona de densidad intermedia","Conil de la Frontera","A11014",25.4759
+2020,"Ciudades","Chiclana de la Frontera","A11015",26.6529
+2020,"Zona de densidad intermedia","Chipiona","A11016",18.3195
+2020,"Zona rural","Espera","A11017",3.8083
+2020,"Zona rural","Gastor, El","A11018",4.6075
+2020,"Zona rural","Grazalema","A11019",0.0978
+2020,"Ciudades","Jerez de la Frontera","A11020",4.4976
+2020,"Zona rural","Jimena de la Frontera","A11021",68.8539
+2020,"Ciudades","Línea de la Concepción, La","A11022",56.383
+2020,"Zona de densidad intermedia","Medina Sidonia","A11023",5.9189
+2020,"Zona de densidad intermedia","Olvera","A11024",9.5203
+2020,"Zona de densidad intermedia","Paterna de Rivera","A11025",1.5314
+2020,"Zona de densidad intermedia","Prado del Rey","A11026",0.3003
+2020,"Ciudades","Puerto de Santa María, El","A11027",14.7584
+2020,"Zona de densidad intermedia","Puerto Real","A11028",3.1925
+2020,"Zona de densidad intermedia","Puerto Serrano","A11029",0.5039
+2020,"Zona de densidad intermedia","Rota","A11030",7.2356
+2020,"Ciudades","San Fernando","A11031",1.0582
+2020,"Ciudades","Sanlúcar de Barrameda","A11032",19.477
+2020,"Zona de densidad intermedia","San Roque","A11033",35.311
+2020,"Zona rural","Setenil de las Bodegas","A11034",100
+2020,"Zona de densidad intermedia","Tarifa","A11035",12.2521
+2020,"Zona rural","Torre Alháquime","A11036",100
+2020,"Zona de densidad intermedia","Trebujena","A11037",0.1136
+2020,"Zona de densidad intermedia","Ubrique","A11038",2.2177
+2020,"Zona de densidad intermedia","Vejer de la Frontera","A11039",7.9457
+2020,"Zona rural","Villaluenga del Rosario","A11040",0
+2020,"Zona de densidad intermedia","Villamartín","A11041",0.8132
+2020,"Zona rural","Zahara","A11042",93.9828
+2020,"Zona de densidad intermedia","Benalup-Casas Viejas","A11901",3.8234
+2020,"Zona rural","San José del Valle","A11902",15.5747
+2020,"Zona rural","San Martín del Tesorillo","A11903",67.5949
+2020,"Zona rural","Adamuz","A14001",0
+2020,"Zona de densidad intermedia","Aguilar de la Frontera","A14002",98.7323
+2020,"Zona rural","Alcaracejos","A14003",1.4113
+2020,"Zona rural","Almedinilla","A14004",25.8785
+2020,"Zona de densidad intermedia","Almodóvar del Río","A14005",19.4851
+2020,"Zona rural","Añora","A14006",0
+2020,"Zona de densidad intermedia","Baena","A14007",8.3986
+2020,"Zona rural","Belalcázar","A14008",0.8931
+2020,"Zona rural","Belmez","A14009",17.5331
+2020,"Zona rural","Benamejí","A14010",14.4787
+2020,"Zona rural","Blázquez, Los","A14011",0
+2020,"Zona de densidad intermedia","Bujalance","A14012",3.2454
+2020,"Zona de densidad intermedia","Cabra","A14013",2.7232
+2020,"Zona rural","Cañete de las Torres","A14014",0
+2020,"Zona rural","Carcabuey","A14015",2.9992
+2020,"Zona rural","Cardeña","A14016",1.6711
+2020,"Zona de densidad intermedia","Carlota, La","A14017",44.3552
+2020,"Zona rural","Carpio, El","A14018",7.4201
+2020,"Zona de densidad intermedia","Castro del Río","A14019",5.7454
+2020,"Zona rural","Conquista","A14020",0.2639
+2020,"Ciudades","Córdoba","A14021",6.4632
+2020,"Zona rural","Doña Mencía","A14022",0
+2020,"Zona rural","Dos Torres","A14023",0.0414
+2020,"Zona rural","Encinas Reales","A14024",3.6922
+2020,"Zona rural","Espejo","A14025",0.06
+2020,"Zona rural","Espiel","A14026",8.5631
+2020,"Zona de densidad intermedia","Fernán-Núñez","A14027",1.045
+2020,"Zona rural","Fuente la Lancha","A14028",0
+2020,"Zona rural","Fuente Obejuna","A14029",49.9674
+2020,"Zona de densidad intermedia","Fuente Palmera","A14030",36.67
+2020,"Zona rural","Fuente-Tójar","A14031",2.5298
+2020,"Zona rural","Granjuela, La","A14032",0
+2020,"Zona rural","Guadalcázar","A14033",1.0082
+2020,"Zona rural","Guijo, El","A14034",100
+2020,"Zona de densidad intermedia","Hinojosa del Duque","A14035",12.2644
+2020,"Zona rural","Hornachuelos","A14036",15.8688
+2020,"Zona rural","Iznájar","A14037",42.2073
+2020,"Zona de densidad intermedia","Lucena","A14038",7.3068
+2020,"Zona rural","Luque","A14039",95.7933
+2020,"Zona de densidad intermedia","Montalbán de Córdoba","A14040",7.3823
+2020,"Zona rural","Montemayor","A14041",0.7492
+2020,"Zona de densidad intermedia","Montilla","A14042",5.1439
+2020,"Zona de densidad intermedia","Montoro","A14043",58.7125
+2020,"Zona rural","Monturque","A14044",8.2909
+2020,"Zona rural","Moriles","A14045",15.0278
+2020,"Zona de densidad intermedia","Nueva Carteya","A14046",0
+2020,"Zona rural","Obejo","A14047",38.4615
+2020,"Zona rural","Palenciana","A14048",0
+2020,"Zona de densidad intermedia","Palma del Río","A14049",1.4564
+2020,"Zona rural","Pedro Abad","A14050",2.3313
+2020,"Zona rural","Pedroche","A14051",0
+2020,"Zona de densidad intermedia","Peñarroya-Pueblonuevo","A14052",2.514
+2020,"Zona de densidad intermedia","Posadas","A14053",2.0606
+2020,"Zona de densidad intermedia","Pozoblanco","A14054",0.0873
+2020,"Zona de densidad intermedia","Priego de Córdoba","A14055",14.1989
+2020,"Zona de densidad intermedia","Puente Genil","A14056",7.4083
+2020,"Zona de densidad intermedia","Rambla, La","A14057",1.8651
+2020,"Zona de densidad intermedia","Rute","A14058",15.8653
+2020,"Zona rural","San Sebastián de los Ballesteros","A14059",94.9005
+2020,"Zona rural","Santaella","A14060",6.4759
+2020,"Zona rural","Santa Eufemia","A14061",0
+2020,"Zona rural","Torrecampo","A14062",0.0942
+2020,"Zona rural","Valenzuela","A14063",0.2625
+2020,"Zona rural","Valsequillo","A14064",0
+2020,"Zona rural","Victoria, La","A14065",5.6612
+2020,"Zona de densidad intermedia","Villa del Río","A14066",0.0422
+2020,"Zona rural","Villafranca de Córdoba","A14067",49.3627
+2020,"Zona rural","Villaharta","A14068",1.4493
+2020,"Zona de densidad intermedia","Villanueva de Córdoba","A14069",0
+2020,"Zona rural","Villanueva del Duque","A14070",0
+2020,"Zona rural","Villanueva del Rey","A14071",83.8123
+2020,"Zona rural","Villaralto","A14072",10.0623
+2020,"Zona rural","Villaviciosa de Córdoba","A14073",2.974
+2020,"Zona rural","Viso, El","A14074",0
+2020,"Zona rural","Zuheros","A14075",0
+2020,"Zona rural","Fuente Carreteros","A14901",100
+2020,"Zona rural","Guijarrosa, La","A14902",100
+2020,"Zona rural","Agrón","A18001",100
+2020,"Zona rural","Alamedilla","A18002",100
+2020,"Zona de densidad intermedia","Albolote","A18003",1.8306
+2020,"Zona rural","Albondón","A18004",98.2074
+2020,"Zona rural","Albuñán","A18005",7.6543
+2020,"Zona rural","Albuñol","A18006",47.8523
+2020,"Zona rural","Albuñuelas","A18007",46.4368
+2020,"Zona rural","Aldeire","A18010",0
+2020,"Zona de densidad intermedia","Alfacar","A18011",27.067
+2020,"Zona rural","Algarinejo","A18012",45.9703
+2020,"Zona rural","Alhama de Granada","A18013",16.5357
+2020,"Zona de densidad intermedia","Alhendín","A18014",6.611
+2020,"Zona rural","Alicún de Ortega","A18015",0
+2020,"Zona rural","Almegíjar","A18016",100
+2020,"Zona de densidad intermedia","Almuñécar","A18017",42.2164
+2020,"Zona rural","Alquife","A18018",2.3102
+2020,"Zona rural","Arenas del Rey","A18020",12.4066
+2020,"Ciudades","Armilla","A18021",1.0424
+2020,"Zona de densidad intermedia","Atarfe","A18022",0.7541
+2020,"Zona de densidad intermedia","Baza","A18023",20.7547
+2020,"Zona rural","Beas de Granada","A18024",16.5988
+2020,"Zona rural","Beas de Guadix","A18025",52.2659
+2020,"Zona rural","Benalúa","A18027",69.982
+2020,"Zona rural","Benalúa de las Villas","A18028",71.7065
+2020,"Zona rural","Benamaurel","A18029",63.1602
+2020,"Zona rural","Bérchules","A18030",95.4545
+2020,"Zona rural","Bubión","A18032",2.5316
+2020,"Zona rural","Busquístar","A18033",82.9268
+2020,"Zona rural","Cacín","A18034",0
+2020,"Zona rural","Cádiar","A18035",73.1918
+2020,"Ciudades","Cájar","A18036",36.2176
+2020,"Zona rural","Calicasas","A18037",100
+2020,"Zona rural","Campotéjar","A18038",10.628
+2020,"Zona rural","Caniles","A18039",15.2068
+2020,"Zona rural","Cáñar","A18040",40.25
+2020,"Zona rural","Capileira","A18042",0
+2020,"Zona rural","Carataunas","A18043",32.9897
+2020,"Zona rural","Cástaras","A18044",90.5138
+2020,"Zona rural","Castilléjar","A18045",97.6155
+2020,"Zona rural","Castril","A18046",62.8666
+2020,"Zona de densidad intermedia","Cenes de la Vega","A18047",0
+2020,"Zona rural","Cijuela","A18048",0.5692
+2020,"Zona rural","Cogollos de Guadix","A18049",84.1246
+2020,"Zona de densidad intermedia","Cogollos de la Vega","A18050",39.9116
+2020,"Zona rural","Colomera","A18051",69.8328
+2020,"Zona rural","Cortes de Baza","A18053",49.23
+2020,"Zona rural","Cortes y Graena","A18054",27.8557
+2020,"Zona rural","Cúllar","A18056",11.5562
+2020,"Zona de densidad intermedia","Cúllar Vega","A18057",25.0372
+2020,"Zona de densidad intermedia","Chauchina","A18059",7.2148
+2020,"Zona rural","Chimeneas","A18061",33.5956
+2020,"Ciudades","Churriana de la Vega","A18062",21.3245
+2020,"Zona rural","Darro","A18063",46.1443
+2020,"Zona rural","Dehesas de Guadix","A18064",16.9048
+2020,"Zona rural","Dehesas Viejas","A18065",100
+2020,"Zona rural","Deifontes","A18066",23.4464
+2020,"Zona rural","Diezma","A18067",91.9192
+2020,"Zona rural","Dílar","A18068",83.4536
+2020,"Zona rural","Dólar","A18069",100
+2020,"Zona rural","Dúdar","A18070",0
+2020,"Zona de densidad intermedia","Dúrcal","A18071",19.6894
+2020,"Zona rural","Escúzar","A18072",0
+2020,"Zona rural","Ferreira","A18074",0
+2020,"Zona rural","Fonelas","A18076",62.0654
+2020,"Zona rural","Fornes","A18077",100
+2020,"Zona rural","Freila","A18078",13.2898
+2020,"Zona de densidad intermedia","Fuente Vaqueros","A18079",0.09
+2020,"Zona rural","Galera","A18082",37.1503
+2020,"Zona rural","Gobernador","A18083",100
+2020,"Ciudades","Gójar","A18084",9.0753
+2020,"Zona rural","Gor","A18085",34.6806
+2020,"Zona rural","Gorafe","A18086",100
+2020,"Ciudades","Granada","A18087",0.3969
+2020,"Zona rural","Guadahortuna","A18088",1.2239
+2020,"Zona de densidad intermedia","Guadix","A18089",16.3274
+2020,"Zona rural","Gualchos","A18093",90.8631
+2020,"Zona rural","Güéjar Sierra","A18094",21.9264
+2020,"Zona rural","Güevéjar","A18095",23.3821
+2020,"Zona rural","Huélago","A18096",97.3171
+2020,"Zona rural","Huéneja","A18097",100
+2020,"Zona de densidad intermedia","Huéscar","A18098",41.038
+2020,"Zona rural","Huétor de Santillán","A18099",93.284
+2020,"Zona de densidad intermedia","Huétor Tájar","A18100",1.3788
+2020,"Ciudades","Huétor Vega","A18101",0.0582
+2020,"Zona rural","Íllora","A18102",25.3211
+2020,"Zona rural","Ítrabo","A18103",100
+2020,"Zona de densidad intermedia","Iznalloz","A18105",50.8452
+2020,"Zona rural","Játar","A18106",100
+2020,"Zona rural","Jayena","A18107",19.3849
+2020,"Zona rural","Jérez del Marquesado","A18108",0.9298
+2020,"Zona rural","Jete","A18109",100
+2020,"Zona rural","Jun","A18111",39.1451
+2020,"Zona rural","Juviles","A18112",0
+2020,"Zona rural","Calahorra, La","A18114",3.8576
+2020,"Zona rural","Láchar","A18115",0
+2020,"Zona rural","Lanjarón","A18116",9.2732
+2020,"Zona rural","Lanteira","A18117",26.3866
+2020,"Zona rural","Lecrín","A18119",82.5375
+2020,"Zona rural","Lentegí","A18120",100
+2020,"Zona rural","Lobras","A18121",79.6053
+2020,"Zona de densidad intermedia","Loja","A18122",19.6217
+2020,"Zona rural","Lugros","A18123",9.9379
+2020,"Zona rural","Lújar","A18124",82.8974
+2020,"Zona rural","Malahá, La","A18126",100
+2020,"Ciudades","Maracena","A18127",0.4056
+2020,"Zona rural","Marchal","A18128",100
+2020,"Zona rural","Moclín","A18132",65.2944
+2020,"Zona rural","Molvízar","A18133",5.9512
+2020,"Ciudades","Monachil","A18134",23.2129
+2020,"Zona rural","Montefrío","A18135",9.1457
+2020,"Zona rural","Montejícar","A18136",20.9662
+2020,"Zona rural","Montillana","A18137",89.5595
+2020,"Zona rural","Moraleda de Zafayona","A18138",7.8512
+2020,"Zona de densidad intermedia","Motril","A18140",2.3599
+2020,"Zona rural","Murtas","A18141",100
+2020,"Zona rural","Nigüelas","A18143",99.7453
+2020,"Zona de densidad intermedia","Nívar","A18144",98.8315
+2020,"Ciudades","Ogíjares","A18145",13.0923
+2020,"Zona rural","Orce","A18146",68.5403
+2020,"Zona rural","Órgiva","A18147",94.9161
+2020,"Zona rural","Otívar","A18148",100
+2020,"Zona de densidad intermedia","Villa de Otura","A18149",54.0641
+2020,"Zona de densidad intermedia","Padul","A18150",16.8555
+2020,"Zona rural","Pampaneira","A18151",2.439
+2020,"Zona rural","Pedro Martínez","A18152",82.7957
+2020,"Zona de densidad intermedia","Peligros","A18153",20.6939
+2020,"Zona rural","Peza, La","A18154",0.5098
+2020,"Zona rural","Pinos Genil","A18157",15.2497
+2020,"Zona de densidad intermedia","Pinos Puente","A18158",27.8252
+2020,"Zona rural","Píñar","A18159",96.766
+2020,"Zona rural","Polícar","A18161",6.0714
+2020,"Zona rural","Polopos","A18162",100
+2020,"Zona rural","Pórtugos","A18163",100
+2020,"Zona rural","Puebla de Don Fadrique","A18164",12.5166
+2020,"Ciudades","Pulianas","A18165",1.2882
+2020,"Zona rural","Purullena","A18167",9.4583
+2020,"Zona rural","Quéntar","A18168",0.6403
+2020,"Zona rural","Rubite","A18170",78.4504
+2020,"Zona rural","Salar","A18171",0.9527
+2020,"Zona de densidad intermedia","Salobreña","A18173",46.7867
+2020,"Zona rural","Santa Cruz del Comercio","A18174",0
+2020,"Zona de densidad intermedia","Santa Fe","A18175",7.1452
+2020,"Zona rural","Soportújar","A18176",5.4348
+2020,"Zona rural","Sorvilán","A18177",100
+2020,"Zona rural","Torre-Cardela","A18178",0.2677
+2020,"Zona rural","Torvizcón","A18179",99.0854
+2020,"Zona rural","Trevélez","A18180",54.0431
+2020,"Zona rural","Turón","A18181",100
+2020,"Zona rural","Ugíjar","A18182",15.6801
+2020,"Zona rural","Válor","A18183",99.1441
+2020,"Zona rural","Vélez de Benaudalla","A18184",17.0502
+2020,"Zona rural","Ventas de Huelma","A18185",100
+2020,"Zona rural","Villanueva de las Torres","A18187",100
+2020,"Zona rural","Villanueva Mesía","A18188",3.0303
+2020,"Zona de densidad intermedia","Víznar","A18189",31.875
+2020,"Zona rural","Zafarraya","A18192",2.6553
+2020,"Ciudades","Zubia, La","A18193",0.2602
+2020,"Zona rural","Zújar","A18194",100
+2020,"Zona rural","Taha, La","A18901",93.1686
+2020,"Zona rural","Valle, El","A18902",100
+2020,"Zona rural","Nevada","A18903",88.9727
+2020,"Zona rural","Alpujarra de la Sierra","A18904",99.1445
+2020,"Ciudades","Gabias, Las","A18905",8.5548
+2020,"Zona rural","Guájares, Los","A18906",33.2722
+2020,"Zona rural","Valle del Zalabí","A18907",19.6998
+2020,"Zona de densidad intermedia","Villamena","A18908",73.904
+2020,"Zona rural","Morelábor","A18909",9.5935
+2020,"Zona rural","Pinar, El","A18910",43.449
+2020,"Zona de densidad intermedia","Vegas del Genil","A18911",50.6794
+2020,"Zona rural","Cuevas del Campo","A18912",98.8821
+2020,"Zona rural","Zagra","A18913",1.2746
+2020,"Zona rural","Valderrubio","A18914",5.2029
+2020,"Zona rural","Domingo Pérez de Granada","A18915",2.9018
+2020,"Zona rural","Torrenueva Costa","A18916",7.7179
+2020,"Zona rural","Alájar","A21001",0.1323
+2020,"Zona de densidad intermedia","Aljaraque","A21002",6.0008
+2020,"Zona rural","Almendro, El","A21003",71.1701
+2020,"Zona rural","Almonaster la Real","A21004",14.6221
+2020,"Zona de densidad intermedia","Almonte","A21005",0.2252
+2020,"Zona rural","Alosno","A21006",49.2386
+2020,"Zona de densidad intermedia","Aracena","A21007",9.8102
+2020,"Zona rural","Aroche","A21008",50.8778
+2020,"Zona rural","Arroyomolinos de León","A21009",61.8048
+2020,"Zona de densidad intermedia","Ayamonte","A21010",20.1798
+2020,"Zona rural","Beas","A21011",22.9935
+2020,"Zona rural","Berrocal","A21012",10.8974
+2020,"Zona de densidad intermedia","Bollullos Par del Condado","A21013",3.8335
+2020,"Zona de densidad intermedia","Bonares","A21014",0.8454
+2020,"Zona rural","Cabezas Rubias","A21015",2.0408
+2020,"Zona rural","Cala","A21016",13.1443
+2020,"Zona rural","Calañas","A21017",70.5988
+2020,"Zona rural","Campillo, El","A21018",1.5138
+2020,"Zona rural","Campofrío","A21019",97.3574
+2020,"Zona rural","Cañaveral de León","A21020",100
+2020,"Zona de densidad intermedia","Cartaya","A21021",6.8069
+2020,"Zona rural","Castaño del Robledo","A21022",1.3514
+2020,"Zona rural","Cerro de Andévalo, El","A21023",99.6186
+2020,"Zona rural","Corteconcepción","A21024",0
+2020,"Zona rural","Cortegana","A21025",8.8046
+2020,"Zona rural","Cortelazor","A21026",100
+2020,"Zona rural","Cumbres de Enmedio","A21027",100
+2020,"Zona rural","Cumbres de San Bartolomé","A21028",92.4282
+2020,"Zona rural","Cumbres Mayores","A21029",0.2822
+2020,"Zona rural","Chucena","A21030",0
+2020,"Zona rural","Encinasola","A21031",3.0415
+2020,"Zona de densidad intermedia","Escacena del Campo","A21032",0.7401
+2020,"Zona rural","Fuenteheridos","A21033",1.9663
+2020,"Zona rural","Galaroza","A21034",0.1449
+2020,"Zona de densidad intermedia","Gibraleón","A21035",4.6869
+2020,"Zona rural","Granada de Río-Tinto, La","A21036",2.1008
+2020,"Zona rural","Granado, El","A21037",99.4297
+2020,"Zona rural","Higuera de la Sierra","A21038",100
+2020,"Zona rural","Hinojales","A21039",100
+2020,"Zona rural","Hinojos","A21040",0.4963
+2020,"Ciudades","Huelva","A21041",0.4297
+2020,"Zona de densidad intermedia","Isla Cristina","A21042",10.17
+2020,"Zona rural","Jabugo","A21043",3.6493
+2020,"Zona de densidad intermedia","Lepe","A21044",3.0837
+2020,"Zona rural","Linares de la Sierra","A21045",100
+2020,"Zona rural","Lucena del Puerto","A21046",28.553
+2020,"Zona rural","Manzanilla","A21047",28.9815
+2020,"Zona rural","Marines, Los","A21048",0
+2020,"Zona rural","Minas de Riotinto","A21049",13.5603
+2020,"Zona de densidad intermedia","Moguer","A21050",3.6703
+2020,"Zona rural","Nava, La","A21051",1.1111
+2020,"Zona rural","Nerva","A21052",0
+2020,"Zona rural","Niebla","A21053",10.8089
+2020,"Zona de densidad intermedia","Palma del Condado, La","A21054",0.7793
+2020,"Zona de densidad intermedia","Palos de la Frontera","A21055",6.3942
+2020,"Zona de densidad intermedia","Paterna del Campo","A21056",2.6082
+2020,"Zona rural","Paymogo","A21057",89.1015
+2020,"Zona rural","Puebla de Guzmán","A21058",100
+2020,"Zona rural","Puerto Moral","A21059",0.3559
+2020,"Zona de densidad intermedia","Punta Umbría","A21060",12.252
+2020,"Zona de densidad intermedia","Rociana del Condado","A21061",17.3417
+2020,"Zona rural","Rosal de la Frontera","A21062",4.6275
+2020,"Zona rural","San Bartolomé de la Torre","A21063",99.9475
+2020,"Zona de densidad intermedia","San Juan del Puerto","A21064",1.7736
+2020,"Zona rural","Sanlúcar de Guadiana","A21065",5.1163
+2020,"Zona rural","San Silvestre de Guzmán","A21066",100
+2020,"Zona rural","Santa Ana la Real","A21067",72.6531
+2020,"Zona rural","Santa Bárbara de Casa","A21068",100
+2020,"Zona rural","Santa Olalla del Cala","A21069",75.1236
+2020,"Zona de densidad intermedia","Trigueros","A21070",99.6699
+2020,"Zona rural","Valdelarco","A21071",98.7705
+2020,"Zona de densidad intermedia","Valverde del Camino","A21072",4.8418
+2020,"Zona rural","Villablanca","A21073",12.6394
+2020,"Zona rural","Villalba del Alcor","A21074",4.1305
+2020,"Zona rural","Villanueva de las Cruces","A21075",100
+2020,"Zona rural","Villanueva de los Castillejos","A21076",36.3925
+2020,"Zona rural","Villarrasa","A21077",99.7717
+2020,"Zona rural","Zalamea la Real","A21078",56.3531
+2020,"Zona rural","Zufre","A21079",0.7398
+2020,"Zona rural","Zarza-Perrunal, La","A21902",0
+2020,"Zona rural","Albanchez de Mágina","A23001",0
+2020,"Zona de densidad intermedia","Alcalá la Real","A23002",13.9896
+2020,"Zona de densidad intermedia","Alcaudete","A23003",17.5921
+2020,"Zona rural","Aldeaquemada","A23004",0
+2020,"Zona de densidad intermedia","Andújar","A23005",5.3674
+2020,"Zona de densidad intermedia","Arjona","A23006",0
+2020,"Zona rural","Arjonilla","A23007",0
+2020,"Zona rural","Arquillos","A23008",51.8454
+2020,"Zona de densidad intermedia","Baeza","A23009",3.7203
+2020,"Zona de densidad intermedia","Bailén","A23010",17.9431
+2020,"Zona rural","Baños de la Encina","A23011",0.0385
+2020,"Zona rural","Beas de Segura","A23012",6.1993
+2020,"Zona rural","Begíjar","A23014",0.462
+2020,"Zona rural","Bélmez de la Moraleda","A23015",44.1195
+2020,"Zona rural","Benatae","A23016",0
+2020,"Zona rural","Cabra del Santo Cristo","A23017",2.8492
+2020,"Zona rural","Cambil","A23018",21.9153
+2020,"Zona rural","Campillo de Arenas","A23019",7.6348
+2020,"Zona de densidad intermedia","Canena","A23020",0
+2020,"Zona rural","Carboneros","A23021",14.1234
+2020,"Zona de densidad intermedia","Carolina, La","A23024",3.5075
+2020,"Zona rural","Castellar","A23025",0.9955
+2020,"Zona rural","Castillo de Locubín","A23026",13.2486
+2020,"Zona rural","Cazalilla","A23027",12.1507
+2020,"Zona de densidad intermedia","Cazorla","A23028",3.1582
+2020,"Zona rural","Chiclana de Segura","A23029",21.0152
+2020,"Zona rural","Chilluévar","A23030",0.8351
+2020,"Zona rural","Escañuela","A23031",0
+2020,"Zona rural","Espeluy","A23032",74.11
+2020,"Zona rural","Frailes","A23033",19.4268
+2020,"Zona rural","Fuensanta de Martos","A23034",25.3553
+2020,"Zona rural","Fuerte del Rey","A23035",1.1054
+2020,"Zona rural","Génave","A23037",0.4934
+2020,"Zona rural","Guardia de Jaén, La","A23038",33.3333
+2020,"Zona rural","Guarromán","A23039",3.1193
+2020,"Zona rural","Lahiguera","A23040",1.2835
+2020,"Zona rural","Higuera de Calatrava","A23041",0
+2020,"Zona rural","Hinojares","A23042",87.1046
+2020,"Zona rural","Hornos","A23043",3.1457
+2020,"Zona de densidad intermedia","Huelma","A23044",4.2446
+2020,"Zona rural","Huesa","A23045",5.3328
+2020,"Zona rural","Ibros","A23046",0
+2020,"Zona rural","Iruela, La","A23047",5.8207
+2020,"Zona rural","Iznatoraf","A23048",9.668
+2020,"Zona rural","Jabalquinto","A23049",0.3438
+2020,"Ciudades","Jaén","A23050",1.3026
+2020,"Zona de densidad intermedia","Jamilena","A23051",0
+2020,"Zona rural","Jimena","A23052",70.743
+2020,"Zona de densidad intermedia","Jódar","A23053",25.0793
+2020,"Zona rural","Larva","A23054",0.2105
+2020,"Ciudades","Linares","A23055",2.8174
+2020,"Zona rural","Lopera","A23056",0
+2020,"Zona rural","Lupión","A23057",29.7619
+2020,"Zona de densidad intermedia","Mancha Real","A23058",1.0034
+2020,"Zona de densidad intermedia","Marmolejo","A23059",0.9361
+2020,"Zona de densidad intermedia","Martos","A23060",0.9164
+2020,"Zona de densidad intermedia","Mengíbar","A23061",0.481
+2020,"Zona rural","Montizón","A23062",59.9073
+2020,"Zona rural","Navas de San Juan","A23063",0.022
+2020,"Zona rural","Noalejo","A23064",8.0149
+2020,"Zona rural","Orcera","A23065",16.9146
+2020,"Zona de densidad intermedia","Peal de Becerro","A23066",1.6208
+2020,"Zona rural","Pegalajar","A23067",2.9442
+2020,"Zona de densidad intermedia","Porcuna","A23069",4.1947
+2020,"Zona rural","Pozo Alcón","A23070",11.2118
+2020,"Zona rural","Puente de Génave","A23071",7.7602
+2020,"Zona rural","Puerta de Segura, La","A23072",4.5515
+2020,"Zona rural","Quesada","A23073",10.4426
+2020,"Zona de densidad intermedia","Rus","A23074",28.2982
+2020,"Zona rural","Sabiote","A23075",1.15
+2020,"Zona rural","Santa Elena","A23076",0.2252
+2020,"Zona rural","Santiago de Calatrava","A23077",27.9006
+2020,"Zona rural","Santisteban del Puerto","A23079",0.2685
+2020,"Zona rural","Santo Tomé","A23080",2.2323
+2020,"Zona rural","Segura de la Sierra","A23081",4.9776
+2020,"Zona rural","Siles","A23082",0.8486
+2020,"Zona rural","Sorihuela del Guadalimar","A23084",33.3637
+2020,"Zona rural","Torreblascopedro","A23085",0.7095
+2020,"Zona de densidad intermedia","Torredelcampo","A23086",0.1264
+2020,"Zona de densidad intermedia","Torredonjimeno","A23087",0.0438
+2020,"Zona de densidad intermedia","Torreperogil","A23088",0.4819
+2020,"Zona rural","Torres","A23090",0.2815
+2020,"Zona rural","Torres de Albánchez","A23091",0.7614
+2020,"Zona de densidad intermedia","Úbeda","A23092",2.1093
+2020,"Zona rural","Valdepeñas de Jaén","A23093",1.3488
+2020,"Zona rural","Vilches","A23094",10.6235
+2020,"Zona de densidad intermedia","Villacarrillo","A23095",21.2232
+2020,"Zona rural","Villanueva de la Reina","A23096",8.7524
+2020,"Zona de densidad intermedia","Villanueva del Arzobispo","A23097",0.9902
+2020,"Zona rural","Villardompardo","A23098",37.0485
+2020,"Zona de densidad intermedia","Villares, Los","A23099",2.1312
+2020,"Zona rural","Villarrodrigo","A23101",1.9704
+2020,"Zona rural","Cárcheles","A23901",19.2478
+2020,"Zona rural","Bedmar y Garcíez","A23902",2.5321
+2020,"Zona rural","Villatorres","A23903",6.7847
+2020,"Zona rural","Santiago-Pontones","A23904",7.3937
+2020,"Zona rural","Arroyo del Ojanco","A23905",2.2815
+2020,"Zona de densidad intermedia","Alameda","A29001",5.2369
+2020,"Zona rural","Alcaucín","A29002",5.3903
+2020,"Zona rural","Alfarnate","A29003",21.7712
+2020,"Zona rural","Alfarnatejo","A29004",100
+2020,"Zona de densidad intermedia","Algarrobo","A29005",0.4716
+2020,"Zona rural","Algatocín","A29006",8.7342
+2020,"Zona de densidad intermedia","Alhaurín de la Torre","A29007",14.0582
+2020,"Zona de densidad intermedia","Alhaurín el Grande","A29008",21.3103
+2020,"Zona rural","Almáchar","A29009",100
+2020,"Zona rural","Almargen","A29010",0.3955
+2020,"Zona rural","Almogía","A29011",95.8389
+2020,"Zona de densidad intermedia","Álora","A29012",99.1462
+2020,"Zona rural","Alozaina","A29013",89.6922
+2020,"Zona rural","Alpandeire","A29014",0
+2020,"Zona de densidad intermedia","Antequera","A29015",8.2551
+2020,"Zona rural","Árchez","A29016",100
+2020,"Zona de densidad intermedia","Archidona","A29017",14.3205
+2020,"Zona rural","Ardales","A29018",98.764
+2020,"Zona rural","Arenas","A29019",90.8326
+2020,"Zona rural","Arriate","A29020",24.3956
+2020,"Zona rural","Atajate","A29021",95.082
+2020,"Zona rural","Benadalid","A29022",96.2963
+2020,"Zona rural","Benahavís","A29023",55.427
+2020,"Zona rural","Benalauría","A29024",17.1946
+2020,"Ciudades","Benalmádena","A29025",30.4038
+2020,"Zona rural","Benamargosa","A29026",12.1739
+2020,"Zona rural","Benamocarra","A29027",0.4975
+2020,"Zona rural","Benaoján","A29028",42.0134
+2020,"Zona rural","Benarrabá","A29029",0.4435
+2020,"Zona rural","Borge, El","A29030",7.3673
+2020,"Zona rural","Burgo, El","A29031",4.505
+2020,"Zona de densidad intermedia","Campillos","A29032",3.0621
+2020,"Zona rural","Canillas de Aceituno","A29033",16.0567
+2020,"Zona rural","Canillas de Albaida","A29034",48.8228
+2020,"Zona rural","Cañete la Real","A29035",47.9403
+2020,"Zona rural","Carratraca","A29036",2.6063
+2020,"Zona rural","Cartajima","A29037",0
+2020,"Zona de densidad intermedia","Cártama","A29038",23.7399
+2020,"Zona rural","Casabermeja","A29039",29.0486
+2020,"Zona rural","Casarabonela","A29040",14.348
+2020,"Zona rural","Casares","A29041",56.9469
+2020,"Zona de densidad intermedia","Coín","A29042",28.6939
+2020,"Zona rural","Colmenar","A29043",5.7218
+2020,"Zona rural","Comares","A29044",61.9772
+2020,"Zona rural","Cómpeta","A29045",11.2882
+2020,"Zona rural","Cortes de la Frontera","A29046",20.1466
+2020,"Zona rural","Cuevas Bajas","A29047",1.2143
+2020,"Zona rural","Cuevas del Becerro","A29048",100
+2020,"Zona rural","Cuevas de San Marcos","A29049",5.9677
+2020,"Zona rural","Cútar","A29050",100
+2020,"Zona de densidad intermedia","Estepona","A29051",25.8895
+2020,"Zona rural","Faraján","A29052",0.7692
+2020,"Zona rural","Frigiliana","A29053",9.009
+2020,"Ciudades","Fuengirola","A29054",13.4653
+2020,"Zona rural","Fuente de Piedra","A29055",40.6977
+2020,"Zona rural","Gaucín","A29056",22.8282
+2020,"Zona rural","Genalguacil","A29057",0
+2020,"Zona rural","Guaro","A29058",94.6827
+2020,"Zona rural","Humilladero","A29059",4.7299
+2020,"Zona rural","Igualeja","A29060",0
+2020,"Zona rural","Istán","A29061",57.9794
+2020,"Zona rural","Iznate","A29062",8.6957
+2020,"Zona rural","Jimera de Líbar","A29063",67.8851
+2020,"Zona rural","Jubrique","A29064",0
+2020,"Zona rural","Júzcar","A29065",0
+2020,"Zona rural","Macharaviaya","A29066",35.1129
+2020,"Ciudades","Málaga","A29067",2.4206
+2020,"Zona de densidad intermedia","Manilva","A29068",52.0996
+2020,"Zona de densidad intermedia","Marbella","A29069",16.4797
+2020,"Ciudades","Mijas","A29070",24.9642
+2020,"Zona rural","Moclinejo","A29071",100
+2020,"Zona rural","Mollina","A29072",68.7018
+2020,"Zona rural","Monda","A29073",9.6943
+2020,"Zona rural","Montejaque","A29074",65.6057
+2020,"Zona de densidad intermedia","Nerja","A29075",2.5804
+2020,"Zona rural","Ojén","A29076",2.1214
+2020,"Zona rural","Parauta","A29077",98.4064
+2020,"Zona rural","Periana","A29079",19.6669
+2020,"Zona de densidad intermedia","Pizarra","A29080",89.6688
+2020,"Zona rural","Pujerra","A29081",0
+2020,"Zona de densidad intermedia","Rincón de la Victoria","A29082",19.6588
+2020,"Zona rural","Riogordo","A29083",30.0582
+2020,"Zona de densidad intermedia","Ronda","A29084",11.1281
+2020,"Zona rural","Salares","A29085",5.8201
+2020,"Zona rural","Sayalonga","A29086",30.1799
+2020,"Zona rural","Sedella","A29087",87.7013
+2020,"Zona rural","Sierra de Yeguas","A29088",100
+2020,"Zona rural","Teba","A29089",73.1707
+2020,"Zona rural","Tolox","A29090",8.4428
+2020,"Zona de densidad intermedia","Torrox","A29091",48.0616
+2020,"Zona rural","Totalán","A29092",100
+2020,"Zona rural","Valle de Abdalajís","A29093",9.1335
+2020,"Zona de densidad intermedia","Vélez-Málaga","A29094",7.1653
+2020,"Zona rural","Villanueva de Algaidas","A29095",11.6268
+2020,"Zona rural","Villanueva del Rosario","A29096",10.4067
+2020,"Zona rural","Villanueva del Trabuco","A29097",10.0978
+2020,"Zona rural","Villanueva de Tapia","A29098",4.6748
+2020,"Zona rural","Viñuela","A29099",49.3246
+2020,"Zona rural","Yunquera","A29100",96.5996
+2020,"Ciudades","Torremolinos","A29901",3.1854
+2020,"Zona rural","Villanueva de la Concepción","A29902",33.0088
+2020,"Zona rural","Montecorto","A29903",1.1094
+2020,"Zona rural","Serrato","A29904",100
+2020,"Zona rural","Aguadulce","A41001",12.4574
+2020,"Zona rural","Alanís","A41002",36.3689
+2020,"Zona de densidad intermedia","Albaida del Aljarafe","A41003",0
+2020,"Ciudades","Alcalá de Guadaíra","A41004",7.4025
+2020,"Zona de densidad intermedia","Alcalá del Río","A41005",12.5721
+2020,"Zona rural","Alcolea del Río","A41006",0
+2020,"Zona de densidad intermedia","Algaba, La","A41007",0.194
+2020,"Zona rural","Algámitas","A41008",0.0789
+2020,"Zona rural","Almadén de la Plata","A41009",100
+2020,"Zona de densidad intermedia","Almensilla","A41010",3.1353
+2020,"Zona de densidad intermedia","Arahal","A41011",1.7826
+2020,"Zona rural","Aznalcázar","A41012",3.8363
+2020,"Zona de densidad intermedia","Aznalcóllar","A41013",0
+2020,"Zona rural","Badolatosa","A41014",14.761
+2020,"Zona de densidad intermedia","Benacazón","A41015",0.0137
+2020,"Zona de densidad intermedia","Bollullos de la Mitación","A41016",1.5114
+2020,"Ciudades","Bormujos","A41017",0
+2020,"Zona de densidad intermedia","Brenes","A41018",0
+2020,"Zona de densidad intermedia","Burguillos","A41019",0.0887
+2020,"Zona de densidad intermedia","Cabezas de San Juan, Las","A41020",2.2856
+2020,"Ciudades","Camas","A41021",0.7523
+2020,"Zona de densidad intermedia","Campana, La","A41022",0
+2020,"Zona de densidad intermedia","Cantillana","A41023",4.5053
+2020,"Zona de densidad intermedia","Carmona","A41024",18.2366
+2020,"Zona rural","Carrión de los Céspedes","A41025",0
+2020,"Zona de densidad intermedia","Casariche","A41026",7.2734
+2020,"Zona rural","Castilblanco de los Arroyos","A41027",15.4331
+2020,"Zona de densidad intermedia","Castilleja de Guzmán","A41028",0.3879
+2020,"Ciudades","Castilleja de la Cuesta","A41029",0
+2020,"Zona rural","Castilleja del Campo","A41030",95.0949
+2020,"Zona rural","Castillo de las Guardas, El","A41031",24.7922
+2020,"Zona rural","Cazalla de la Sierra","A41032",2.7073
+2020,"Zona de densidad intermedia","Constantina","A41033",98.6923
+2020,"Zona de densidad intermedia","Coria del Río","A41034",4.3643
+2020,"Zona rural","Coripe","A41035",18.6345
+2020,"Zona rural","Coronil, El","A41036",100
+2020,"Zona de densidad intermedia","Corrales, Los","A41037",0
+2020,"Ciudades","Dos Hermanas","A41038",4.766
+2020,"Zona de densidad intermedia","Écija","A41039",5.6183
+2020,"Zona de densidad intermedia","Espartinas","A41040",5.7674
+2020,"Zona de densidad intermedia","Estepa","A41041",0.5491
+2020,"Zona de densidad intermedia","Fuentes de Andalucía","A41042",0
+2020,"Zona rural","Garrobo, El","A41043",100
+2020,"Ciudades","Gelves","A41044",13.8878
+2020,"Zona de densidad intermedia","Gerena","A41045",1.6376
+2020,"Zona rural","Gilena","A41046",38.437
+2020,"Ciudades","Gines","A41047",0
+2020,"Zona rural","Guadalcanal","A41048",85.8984
+2020,"Zona de densidad intermedia","Guillena","A41049",4.0853
+2020,"Zona de densidad intermedia","Herrera","A41050",0.2627
+2020,"Zona rural","Huévar del Aljarafe","A41051",18.8247
+2020,"Zona rural","Lantejuela","A41052",100
+2020,"Zona de densidad intermedia","Lebrija","A41053",2.6147
+2020,"Zona rural","Lora de Estepa","A41054",25.2619
+2020,"Zona de densidad intermedia","Lora del Río","A41055",10.4524
+2020,"Zona rural","Luisiana, La","A41056",0.2618
+2020,"Zona rural","Madroño, El","A41057",77.0609
+2020,"Zona de densidad intermedia","Mairena del Alcor","A41058",5.1796
+2020,"Ciudades","Mairena del Aljarafe","A41059",0.332
+2020,"Zona de densidad intermedia","Marchena","A41060",1.4487
+2020,"Zona rural","Marinaleda","A41061",0.0757
+2020,"Zona de densidad intermedia","Martín de la Jara","A41062",0.2949
+2020,"Zona rural","Molares, Los","A41063",100
+2020,"Zona de densidad intermedia","Montellano","A41064",22.815
+2020,"Zona de densidad intermedia","Morón de la Frontera","A41065",28.1577
+2020,"Zona rural","Navas de la Concepción, Las","A41066",70.7959
+2020,"Zona de densidad intermedia","Olivares","A41067",1.525
+2020,"Zona de densidad intermedia","Osuna","A41068",15.2562
+2020,"Zona de densidad intermedia","Palacios y Villafranca, Los","A41069",0.9276
+2020,"Ciudades","Palomares del Río","A41070",8.2248
+2020,"Zona de densidad intermedia","Paradas","A41071",100
+2020,"Zona de densidad intermedia","Pedrera","A41072",99.9258
+2020,"Zona rural","Pedroso, El","A41073",100
+2020,"Zona rural","Peñaflor","A41074",100
+2020,"Zona de densidad intermedia","Pilas","A41075",0.6221
+2020,"Zona rural","Pruna","A41076",0
+2020,"Zona de densidad intermedia","Puebla de Cazalla, La","A41077",0
+2020,"Zona rural","Puebla de los Infantes, La","A41078",10.7286
+2020,"Zona de densidad intermedia","Puebla del Río, La","A41079",10.8898
+2020,"Zona rural","Real de la Jara, El","A41080",83.3333
+2020,"Zona de densidad intermedia","Rinconada, La","A41081",3.2849
+2020,"Zona rural","Roda de Andalucía, La","A41082",3.9762
+2020,"Zona rural","Ronquillo, El","A41083",0
+2020,"Zona rural","Rubio, El","A41084",0
+2020,"Zona de densidad intermedia","Salteras","A41085",1.443
+2020,"Ciudades","San Juan de Aznalfarache","A41086",0
+2020,"Zona de densidad intermedia","Sanlúcar la Mayor","A41087",13.8889
+2020,"Zona rural","San Nicolás del Puerto","A41088",94.6755
+2020,"Zona de densidad intermedia","Santiponce","A41089",0
+2020,"Zona rural","Saucejo, El","A41090",24.9418
+2020,"Ciudades","Sevilla","A41091",0.497
+2020,"Zona de densidad intermedia","Tocina","A41092",0.4408
+2020,"Ciudades","Tomares","A41093",1.5526
+2020,"Zona de densidad intermedia","Umbrete","A41094",1.7101
+2020,"Zona de densidad intermedia","Utrera","A41095",9.587
+2020,"Zona de densidad intermedia","Valencina de la Concepción","A41096",0.2939
+2020,"Zona rural","Villamanrique de la Condesa","A41097",0.2921
+2020,"Zona de densidad intermedia","Villanueva del Ariscal","A41098",0.6696
+2020,"Zona rural","Villanueva del Río y Minas","A41099",20.1141
+2020,"Zona rural","Villanueva de San Juan","A41100",100
+2020,"Zona de densidad intermedia","Villaverde del Río","A41101",0.3943
+2020,"Zona de densidad intermedia","Viso del Alcor, El","A41102",0.6702
+2020,"Zona rural","Cañada Rosal","A41901",0
+2020,"Zona de densidad intermedia","Isla Mayor","A41902",7.2051
+2020,"Zona de densidad intermedia","Cuervo de Sevilla, El","A41903",1.0534
+2020,"Zona rural","Palmar de Troya, El","A41904",100
